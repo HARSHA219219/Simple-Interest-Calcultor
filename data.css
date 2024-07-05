@@ -1,0 +1,13 @@
+body {
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(pexels-pixabay-531880.jpg);
+    color: whitesmoke;
+}
+h2 {
+    font: 10px;
+    color: whitesmoke;
+}
+#space {
+    margin-left: 50px;
+}

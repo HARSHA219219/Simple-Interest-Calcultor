@@ -1,0 +1,33 @@
+#oyy {
+    align-items: center;
+    text-align: center;
+    size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#amma {
+    margin-left: 187px;
+}
+#amma1 {
+    margin-left: 15px;
+}
+#amma2 {
+    margin-left: -40px;
+}
+#amma3 {
+    margin-left: 85px;
+}
+#amma4 {
+    margin-left: 73px;
+}
+#amma5 {
+    margin-left: 30px;
+}
+#ans1 {
+    margin-left: -75px;
+}
+#ans2 {
+    margin-left: -115px;
+}
+body {
+    background: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+}
